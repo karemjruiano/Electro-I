@@ -1,8 +1,8 @@
 # Programa de método de relajación para resolución de la ecuación de Laplace
-Programa diseñado en python para resolver la ecuación de Laplace en una caja bidimensional con potencial conocido en la frontera de la región.
+Programa diseñado en python para resolver la ecuación de Laplace de forma analítica y númerica en una caja bidimensional con potencial conocido en la frontera de la región.
 
 ## Descripción
-Este programa hace uso del método de relajación para dar una solución númerica a la ecuación de Laplace para el caso 2D en coordenadas cartesianas, la cual describe el comportamiento del potencial eléctrico en un electrostático sin cargas. 
+Este programa hace uso del método de relajación para dar una solución númerica a la ecuación de Laplace para el caso 2D en coordenadas cartesianas, la cual describe el comportamiento del potencial eléctrico en un electrostático sin cargas. Además, se presenta la solución obtenida de forma analítica
 
 ## Instalación
 Será necesario realizar la instalaciónd de las librerias matplotlib.pyplot y numpy. Esto se puede hacer en la terminal con el comando pip install y el nombre de la libreria, como se presenta en el ejemplo:
